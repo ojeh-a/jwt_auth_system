@@ -1,1 +1,1 @@
-A simple authentication system with jwt
+A simple FastAPI authentication system with jwt
